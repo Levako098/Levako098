@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levako098&label=Profile%20views&color=0e75b6&style=flat" alt="levako098" /> </p>
-<div class="tenor-gif-embed" data-postid="7163030671587835263" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%">
+![Yachiyo Apocalypse](https://media.tenor.com/abc123/yachiyo-apocalypse-hotel-robot-eyes.gif)
   
 <h3 align="left">Connect with me</h3>
 <p align="left">
