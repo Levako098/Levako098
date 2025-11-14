@@ -13,7 +13,12 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <!-- Здесь можно добавить ссылки на соцсети -->
+  <a href="https://github.com/Levako098" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="https://t.me/kaliceo" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
