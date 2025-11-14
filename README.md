@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levako098&label=Profile%20views&color=0e75b6&style=flat" alt="levako098" /> </p>
-![Anime Coder](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z6eHQwZHl1cW5qM3F2cXJ5cXJ5cXJ5cXJ5cXJ5cXJ5cXJ5cXJ5YQ&rid=giphy.gif&ct=g)
+<div class="tenor-gif-embed" data-postid="7163030671587835263" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/yachiyo-apocalypse-hotel-robot-eyes-gif-7163030671587835263">Yachiyo Apocalypse GIF</a>from <a href="https://tenor.com/search/yachiyo-gifs">Yachiyo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
