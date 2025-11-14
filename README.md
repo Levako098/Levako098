@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levako098&label=Profile%20views&color=0e75b6&style=flat" alt="levako098" /> </p>
 
 <h3 align="left">Connect with me</h3>
-<img src="https://img.shields.io/twitter/follow/username?logo=Telegram&style=for-the-badge">
 <p align="left">
 </p>
 
